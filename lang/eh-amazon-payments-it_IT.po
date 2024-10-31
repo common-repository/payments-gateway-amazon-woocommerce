@@ -1,0 +1,719 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-21 16:45+0530\n"
+"PO-Revision-Date: 2016-11-21 16:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: eh-amazon-payment-gateway.php:94 templates/template-frontend-main.php:19
+msgid "Settings"
+msgstr "Impostaz."
+
+#: eh-amazon-payment-gateway.php:95
+msgid "Support"
+msgstr "Supporto"
+
+#: includes/class-amazon-pay-api.php:15 includes/class-amazon-pay-hook.php:43
+#: includes/eh-amazon-payments-settings-page.php:25
+#: templates/template-frontend-main.php:19
+msgid "Amazon Payments"
+msgstr "Amazon Payments"
+
+#: includes/class-amazon-pay-api.php:16
+msgid "Use Amazon Payments to Checkout faster."
+msgstr "Utilizzare Amazon Payments alla cassa veloce."
+
+#: includes/class-amazon-pay-api.php:80
+msgid "Your Store Language supports Amazon Supported Languages"
+msgstr "Il tuo negozio lingua supporta Amazon Lingue supportate"
+
+#: includes/class-amazon-pay-api.php:82
+msgid ""
+"Your Store Language does'nt supports Amazon Supported Languages. Amazon "
+"Language will be English ( US )"
+msgstr ""
+"Il tuo negozio lingua does'nt supporta Amazon Lingue supportate. Amazon "
+"lingua sarà l'inglese (US)"
+
+#: includes/class-amazon-pay-api.php:197
+msgid "Select the Amazon Payments."
+msgstr "Selezionare i pagamenti Amazon."
+
+#: includes/class-amazon-pay-api.php:241
+msgid ""
+"Authorize for Amazon Payment Success. Capture the Payment Before 7 days."
+msgstr ""
+"Autorizzare per Amazon pagamento successo. Cattura il pagamento prima di 7 "
+"giorni."
+
+#: includes/class-amazon-pay-api.php:250
+msgid "Authorize for Amazon Payment Failed."
+msgstr "Autorizzare per Amazon pagamento non riuscita."
+
+#: includes/class-amazon-pay-api.php:267 includes/class-amazon-pay-api.php:436
+msgid "Capture for Amazon Payment Success."
+msgstr "Cattura per Amazon pagamento successo."
+
+#: includes/class-amazon-pay-api.php:276
+msgid "Capture for Amazon Payment Failed."
+msgstr "Capture per Amazon pagamento non riuscito."
+
+#: includes/class-amazon-pay-api.php:287
+msgid "Error:"
+msgstr "Errore:"
+
+#: includes/class-amazon-pay-api.php:368 includes/class-amazon-pay-api.php:586
+msgid "Refund for Amazon Payment Success."
+msgstr "Rimborso per Amazon pagamento successo."
+
+#: includes/class-amazon-pay-hook.php:143
+msgid "Amazon Payments Actions"
+msgstr "Amazon Payments azioni"
+
+#: includes/class-amazon-pay-hook.php:166
+msgid "Capture Actions"
+msgstr "azioni di cattura"
+
+#: includes/class-amazon-pay-hook.php:173
+msgid "Full Capture"
+msgstr "Cattura"
+
+#: includes/class-amazon-pay-hook.php:178
+#: includes/class-amazon-pay-overview-table-data.php:79
+#: includes/eh-amazon-payments-settings-page.php:112
+msgid "Capture"
+msgstr "Cattura"
+
+#: includes/class-amazon-pay-hook.php:193
+msgid "Refund Actions"
+msgstr "azioni di rimborso"
+
+#: includes/class-amazon-pay-hook.php:200
+msgid "Partial Refund"
+msgstr "Rimborso parziale"
+
+#: includes/class-amazon-pay-hook.php:203
+msgid "Full Refund"
+msgstr "Rimborso"
+
+#: includes/class-amazon-pay-hook.php:209
+#: includes/class-amazon-pay-overview-table-data.php:75
+#: templates/template-frontend-main.php:32
+msgid "Refund"
+msgstr "Rimborso"
+
+#: includes/class-amazon-pay-hook.php:297
+msgid "Shipping Address"
+msgstr "Indirizzo di spedizione"
+
+#: includes/class-amazon-pay-hook.php:313
+msgid "Payment Method"
+msgstr "Metodo di pagamento"
+
+#: includes/class-amazon-pay-hook.php:328
+msgid "Create an account?"
+msgstr "Creare un account?"
+
+#: includes/class-amazon-pay-hook.php:335
+msgid "Create Account"
+msgstr "Crea un nuovo account"
+
+#: includes/class-amazon-pay-hook.php:336
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Al fine di poter gestire e monitorare il tuo ordine, inserisci una password "
+"nel campo sottostante."
+
+#: includes/class-amazon-pay-overview-table-data.php:31
+msgid "Guest"
+msgstr "Persona"
+
+#: includes/class-amazon-pay-overview-table-data.php:76
+msgid "Full"
+msgstr "Piena"
+
+#: includes/class-amazon-pay-overview-table-data.php:82
+#: includes/class-amazon-pay-overview-table-data.php:85
+#: includes/class-amazon-pay-overview-table-data.php:101
+msgid "No Actions"
+msgstr "(nessuna azione)"
+
+#: includes/class-amazon-pay-overview-table-data.php:95
+msgid "Processing"
+msgstr "Elaborazione in corso"
+
+#: includes/class-amazon-pay-overview-table-data.php:95
+#: includes/class-amazon-pay-overview-table-data.php:98
+msgid "Completed"
+msgstr "Completato"
+
+#: includes/class-amazon-pay-overview-table-data.php:109
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: includes/class-amazon-pay-overview-table-data.php:118
+msgid "Status"
+msgstr "Stato"
+
+#: includes/class-amazon-pay-overview-table-data.php:119
+msgid "Order"
+msgstr "Offerta"
+
+#: includes/class-amazon-pay-overview-table-data.php:120
+msgid "Ship to"
+msgstr "Spedire a"
+
+#: includes/class-amazon-pay-overview-table-data.php:121
+msgid "Price"
+msgstr "Prezzo"
+
+#: includes/class-amazon-pay-overview-table-data.php:122
+#: includes/eh-amazon-payments-settings-page.php:108
+msgid "Payment Action"
+msgstr "Azione pagamento"
+
+#: includes/class-amazon-pay-overview-table-data.php:123
+msgid "Actions"
+msgstr "Azioni"
+
+#: includes/class-amazon-pay-overview-table-data.php:124
+msgid "Date"
+msgstr "Data"
+
+#: includes/class-amazon-pay-overview-table-data.php:135
+msgid "Mark Processing"
+msgstr "Contrassegna come In lavorazione"
+
+#: includes/class-amazon-pay-overview-table-data.php:136
+msgid "Mark On-Hold"
+msgstr "Contrassegna come In attesa"
+
+#: includes/class-amazon-pay-overview-table-data.php:137
+msgid "Mark Completed"
+msgstr "Segnare come completato"
+
+#: includes/eh-amazon-payments-settings-page.php:7
+msgid "Amazon Payment Gateway"
+msgstr "Amazon Payment Gateway"
+
+#: includes/eh-amazon-payments-settings-page.php:8
+#: includes/eh-amazon-payments-settings-page.php:16
+#: includes/eh-amazon-payments-settings-page.php:238
+msgid "Enable"
+msgstr "Abilita"
+
+#: includes/eh-amazon-payments-settings-page.php:10
+msgid "This option will enable Amazon Payments method in checkout page."
+msgstr ""
+"Questa opzione permetterà Amazon metodo di pagamenti in pagina di checkout."
+
+#: includes/eh-amazon-payments-settings-page.php:15
+msgid "Amazon Payment Overview"
+msgstr "Amazon Payments Panoramica"
+
+#: includes/eh-amazon-payments-settings-page.php:18
+msgid "Amazon Payments Overview "
+msgstr "Amazon Payments Panoramica"
+
+#: includes/eh-amazon-payments-settings-page.php:22
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/eh-amazon-payments-settings-page.php:24
+msgid "Enter the title of the checkout which the user can see."
+msgstr "Inserire il titolo della cassa, che l'utente può vedere."
+
+#: includes/eh-amazon-payments-settings-page.php:29
+msgid "Regular Description"
+msgstr "Descrizione regolare"
+
+#: includes/eh-amazon-payments-settings-page.php:32
+msgid "Description which the user sees during checkout."
+msgstr "La descizione che l'utente vede durante il checkout"
+
+#: includes/eh-amazon-payments-settings-page.php:33
+msgid "Pay for your order via Amazon Payments Secure Server."
+msgstr "Pagare il vostro ordine via Amazon Payments server sicuro."
+
+#: includes/eh-amazon-payments-settings-page.php:37
+msgid "SSL Mode of your Store"
+msgstr "Modalità SSL del tuo negozio"
+
+#: includes/eh-amazon-payments-settings-page.php:41
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: includes/eh-amazon-payments-settings-page.php:42
+msgid "HTTP"
+msgstr "Hypertext Transfer Protocol"
+
+#: includes/eh-amazon-payments-settings-page.php:44
+msgid ""
+"If your site is SSL enabled, Pay with Amazon button customization is "
+"applicable.<br>You need to geneate Login with App Client ID in Seller "
+"Portal<br><div class=\"links_for_amazon\"/>"
+msgstr ""
+"Se il sito è abilitato SSL, Paga con personalizzazione pulsante Amazon è "
+"applicabile. <br> È necessario il login in geneate App ID Cliente Venditore "
+"Portal <br><div class=\"links_for_amazon\"/>"
+
+#: includes/eh-amazon-payments-settings-page.php:48
+msgid "Amazon Payments Credentials"
+msgstr "Amazon Payments Credenziali"
+
+#: includes/eh-amazon-payments-settings-page.php:52
+msgid "Environment"
+msgstr "Ambiente"
+
+#: includes/eh-amazon-payments-settings-page.php:56
+msgid "Sandbox Mode"
+msgstr "Modalità Sandbox"
+
+#: includes/eh-amazon-payments-settings-page.php:57
+msgid "Live Mode"
+msgstr "Modo Live"
+
+#: includes/eh-amazon-payments-settings-page.php:59
+msgid "Obtain your"
+msgstr "ottieni"
+
+#: includes/eh-amazon-payments-settings-page.php:59
+msgid "API credentials"
+msgstr "Credenziali API"
+
+#: includes/eh-amazon-payments-settings-page.php:59
+msgid "from Amazon Seller Central."
+msgstr "da Amazon Seller Central."
+
+#: includes/eh-amazon-payments-settings-page.php:63
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: includes/eh-amazon-payments-settings-page.php:68
+msgid "Access Keys"
+msgstr "Chiavi d'accesso"
+
+#: includes/eh-amazon-payments-settings-page.php:73
+msgid "Secret Keys"
+msgstr "chiavi segrete"
+
+#: includes/eh-amazon-payments-settings-page.php:78
+msgid "Amazon Client ID"
+msgstr "Amazon client ID"
+
+#: includes/eh-amazon-payments-settings-page.php:83
+msgid "Amazon Client Secret"
+msgstr "Amazon client Segreto"
+
+#: includes/eh-amazon-payments-settings-page.php:88
+msgid "Pay with Amazon Abilities"
+msgstr "Paga con abilità Amazon"
+
+#: includes/eh-amazon-payments-settings-page.php:92
+#: includes/eh-amazon-payments-settings-page.php:100
+msgid "Pay with Amazon"
+msgstr "Paga con Amazon"
+
+#: includes/eh-amazon-payments-settings-page.php:94
+msgid "Enable on Cart Page"
+msgstr "Attiva il carrello Pagina"
+
+#: includes/eh-amazon-payments-settings-page.php:96
+msgid ""
+"Allows customers to checkout using Amazon Payments directly from the cart "
+"page."
+msgstr ""
+"Consente ai clienti di checkout con Amazon Payments direttamente dalla "
+"pagina del carrello."
+
+#: includes/eh-amazon-payments-settings-page.php:102
+msgid "Enable on Checkout Page"
+msgstr "Attiva su pagina di Pagamento"
+
+#: includes/eh-amazon-payments-settings-page.php:104
+msgid ""
+"Allows customers to checkout using Amazon Payments directly from the "
+"Checkout page."
+msgstr ""
+"Consente ai clienti di checkout con Amazon Payments direttamente dalla "
+"pagina Checkout."
+
+#: includes/eh-amazon-payments-settings-page.php:113
+msgid "Authorize"
+msgstr "Autorizza"
+
+#: includes/eh-amazon-payments-settings-page.php:115
+msgid "Select whether you want to capture the payment or not."
+msgstr "Selezionare se si vuole catturare il pagamento o meno."
+
+#: includes/eh-amazon-payments-settings-page.php:120
+msgid "Pay with Amazon Customization"
+msgstr "Paga con Amazon personalizzazione"
+
+#: includes/eh-amazon-payments-settings-page.php:124
+msgid "Button Size"
+msgstr "Dimensione del pulsante"
+
+#: includes/eh-amazon-payments-settings-page.php:127
+msgid "Select the Button size that fits your shop theme."
+msgstr "Selezionare il formato Button che si adatta al vostro negozio tema."
+
+#: includes/eh-amazon-payments-settings-page.php:131
+msgid "Small"
+msgstr "Piccolo"
+
+#: includes/eh-amazon-payments-settings-page.php:132
+msgid "Medium"
+msgstr "Medio"
+
+#: includes/eh-amazon-payments-settings-page.php:133
+msgid "Large"
+msgstr "Grande"
+
+#: includes/eh-amazon-payments-settings-page.php:134
+msgid "X-Large"
+msgstr "X-Large"
+
+#: includes/eh-amazon-payments-settings-page.php:138
+msgid "Button Color"
+msgstr "Colore pulsante"
+
+#: includes/eh-amazon-payments-settings-page.php:141
+msgid "Select the Button color that fits your shop theme."
+msgstr "Selezionare il colore Button che si adatta al vostro negozio tema."
+
+#: includes/eh-amazon-payments-settings-page.php:145
+msgid "Gold"
+msgstr "Oro"
+
+#: includes/eh-amazon-payments-settings-page.php:146
+msgid "Light Gray"
+msgstr "Grigio chiaro"
+
+#: includes/eh-amazon-payments-settings-page.php:147
+msgid "Dark Gray"
+msgstr "Grigio"
+
+#: includes/eh-amazon-payments-settings-page.php:151
+msgid "Button Text"
+msgstr "Testo Bottone"
+
+#: includes/eh-amazon-payments-settings-page.php:154
+msgid "Select the Button text that Checkout button will have."
+msgstr "Selezionare il testo Button che pulsante Checkout avrà."
+
+#: includes/eh-amazon-payments-settings-page.php:158
+msgid "Pay With Amazon"
+msgstr "Paga con Amazon"
+
+#: includes/eh-amazon-payments-settings-page.php:159
+msgid "Pay"
+msgstr "Paga"
+
+#: includes/eh-amazon-payments-settings-page.php:160
+msgid "Amazon Logo"
+msgstr "Amazon"
+
+#: includes/eh-amazon-payments-settings-page.php:164
+msgid "Amazon Language"
+msgstr "Amazon Lingua"
+
+#: includes/eh-amazon-payments-settings-page.php:166
+msgid "Use Store Locale"
+msgstr "Usa Conservare Locale"
+
+#: includes/eh-amazon-payments-settings-page.php:168
+msgid "Check to set your Store language to Amazon Language."
+msgstr "Controllare per impostare la lingua Store per Amazon lingua."
+
+#: includes/eh-amazon-payments-settings-page.php:171
+msgid "Custom Language"
+msgstr "Lingua personalizzata"
+
+#: includes/eh-amazon-payments-settings-page.php:174
+msgid "Select the Button Language for the Checkout Pay with Amazon Payments."
+msgstr ""
+"Selezionare la lingua pulsante per la Checkout Paga con pagamenti Amazon."
+
+#: includes/eh-amazon-payments-settings-page.php:178
+msgid "English (UK)"
+msgstr "English (UK)"
+
+#: includes/eh-amazon-payments-settings-page.php:179
+msgid "German (Germany)"
+msgstr "German (Germany)"
+
+#: includes/eh-amazon-payments-settings-page.php:180
+msgid "French (France)"
+msgstr "French (France)"
+
+#: includes/eh-amazon-payments-settings-page.php:181
+msgid "Italian (Italy)"
+msgstr "Italiano (Italia)"
+
+#: includes/eh-amazon-payments-settings-page.php:182
+msgid "Spanish (Spain)"
+msgstr "Spagnolo (Spagna)"
+
+#: includes/eh-amazon-payments-settings-page.php:186
+msgid "Position of Button"
+msgstr "Posizione di Button"
+
+#: includes/eh-amazon-payments-settings-page.php:190
+msgid "Above"
+msgstr "Sopra"
+
+#: includes/eh-amazon-payments-settings-page.php:191
+msgid "Below"
+msgstr "Sotto"
+
+#: includes/eh-amazon-payments-settings-page.php:193
+msgid "Select where you want to display the Checkout button."
+msgstr "Selezionare dove si desidera visualizzare il pulsante Checkout."
+
+#: includes/eh-amazon-payments-settings-page.php:198
+msgid "Amazon Display Banners"
+msgstr "Amazon banner display"
+
+#: includes/eh-amazon-payments-settings-page.php:202
+msgid "No Amazon Banners"
+msgstr "Nessun banner Amazon"
+
+#: includes/eh-amazon-payments-settings-page.php:203
+msgid "Dark : Basic Checkout Banners"
+msgstr "Banner di base Checkout: scuro"
+
+#: includes/eh-amazon-payments-settings-page.php:204
+msgid "Light : Basic Checkout Banners"
+msgstr "Banner di base Checkout: Luce"
+
+#: includes/eh-amazon-payments-settings-page.php:205
+msgid "Dark : Logo & Checkout Banners"
+msgstr "Scuro: Logo & Checkout Banner"
+
+#: includes/eh-amazon-payments-settings-page.php:206
+msgid "Light : Logo & Checkout Banners"
+msgstr "Luce: Logo & Checkout Banner"
+
+#: includes/eh-amazon-payments-settings-page.php:207
+msgid "Dark : Description & Button Banners"
+msgstr "Scuri: Descrizione & Button Banner"
+
+#: includes/eh-amazon-payments-settings-page.php:208
+msgid "Light : Description & Button Banners"
+msgstr "Luce: Descrizione & Button Banner"
+
+#: includes/eh-amazon-payments-settings-page.php:209
+msgid "Dark : Logo & Description Banners"
+msgstr "Scuri: Logo e descrizione Banner"
+
+#: includes/eh-amazon-payments-settings-page.php:210
+msgid "Light : Logo & Description Banners"
+msgstr "Luce: Logo e descrizione Banner"
+
+#: includes/eh-amazon-payments-settings-page.php:212
+msgid ""
+"Banners on your homepage and throughout the shopping experience drive "
+"awareness of the benefits of completing a purchase using Pay with Amazon."
+msgstr ""
+"Banner sulla tua home page e in tutta l'esperienza di acquisto di auto "
+"consapevolezza dei benefici di completare un acquisto utilizzando Paga con "
+"Amazon."
+
+#: includes/eh-amazon-payments-settings-page.php:216
+msgid "Pay with Amazon Description"
+msgstr "Paga con Amazon Descrizione"
+
+#: includes/eh-amazon-payments-settings-page.php:219
+msgid "Description which the user sees during Pay with Amazon."
+msgstr "Descrizione che l'utente vede durante Paga con Amazon."
+
+#: includes/eh-amazon-payments-settings-page.php:220
+msgid "Reduce multiple click by clicking on Pay with Amazon"
+msgstr "Ridurre Multiple Clicca cliccando su Pay con Amazon"
+
+#: includes/eh-amazon-payments-settings-page.php:224
+msgid "Seller Policy"
+msgstr "Policy del venditore"
+
+#: includes/eh-amazon-payments-settings-page.php:227
+msgid ""
+"Enter the seller protection policy or customized text which will be "
+"displayed in order review page."
+msgstr ""
+"Inserisci la politica di protezione venditore o testo che verrà visualizzato "
+"nella pagina di riepilogo dell'ordine."
+
+#: includes/eh-amazon-payments-settings-page.php:228
+msgid "You are Protected by "
+msgstr "Siete protetti!"
+
+#: includes/eh-amazon-payments-settings-page.php:232
+msgid "Developer Settings"
+msgstr "Impostazioni per sviluppatori"
+
+#: includes/eh-amazon-payments-settings-page.php:234
+msgid "Enable Logging to save Amazon Payments logs into log file."
+msgstr ""
+"Abilita registrazione per salvare Amazon Payments registri in file di log."
+
+#: includes/eh-amazon-payments-settings-page.php:234
+msgid " Check Now"
+msgstr "Verifica"
+
+#: includes/eh-amazon-payments-settings-page.php:237
+msgid "Logging"
+msgstr "Registrazione"
+
+#: includes/eh-amazon-payments-settings-page.php:240
+msgid "Log File"
+msgstr "File di log"
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:373
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:384
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:395
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:406
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:417
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:428
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:439
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:450
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:461
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate license key at your plugin <a href=\"%s\" target=\"_blank"
+"\">settings page</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:472
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:483
+#, php-format
+msgid ""
+"%s has not been activated. Go to the plugin <a href=\"%s\" target=\"_blank"
+"\">settings page</a> and enter the license key and license email to activate "
+"%s."
+msgstr ""
+
+#: includes/wf_api_manager/class-wc-am-plugin-update.php:494
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: templates/template-frontend-main.php:11
+msgid "Please Wait"
+msgstr "Perfavore aspetta"
+
+#: templates/template-frontend-main.php:24
+msgid "Captured"
+msgstr "Captured"
+
+#: templates/template-frontend-main.php:28
+msgid "Uncaptured"
+msgstr "non catturate"
+
+#: templates/template-frontend-main.php:43
+msgid "Provide date range for displaying overview."
+msgstr "Fornire intervallo di date per la visualizzazione panoramica."
+
+#: templates/template-order-overview.php:20
+msgid "Number of Rows"
+msgstr "Numero di righe"
+
+#: templates/template-order-overview.php:21
+msgid "Save"
+msgstr "Salva"
+
+#~ msgid "Your Store Language supports Amazon Supported Languges"
+#~ msgstr "Il tuo negozio lingua supporta Amazon supportati languges"
+
+#~ msgid ""
+#~ "Your Store Language does'nt supports Amazon Supported Languges. Amazon "
+#~ "Lanuage will be English ( US )"
+#~ msgstr ""
+#~ "Il tuo negozio lingua does'nt supporta Amazon supportati languges. Amazon "
+#~ "Lanuage sarà l'inglese (US)"
+
+#~ msgid ""
+#~ "If your site is SSL enabled, Pay with amazon button customization is "
+#~ "applicable.<br>You need to geneate Login with App Client ID in Seller "
+#~ "Portal<br><div class=\"links_for_amazon\"/>"
+#~ msgstr ""
+#~ "Se il sito è abilitato SSL, Paga con personalizzazione pulsante Amazon è "
+#~ "applicabile. <br> È necessario il login in geneate App ID Cliente "
+#~ "Venditore Portal <br><div class=\"links_for_amazon\"/>"

@@ -1,0 +1,30 @@
+.eh_pay_with_amazon_button
+{
+    display: inline-block;
+    padding: 1em 0;
+}
+.eh_pay_with_amazon_description
+{
+    opacity: 0.7;
+    padding: 1em 0;
+    color: grey;
+}
+.amazon_banner_display
+{
+    margin: 1em 0;
+}
+#amazon_address_widget_section div, #amazon_payment_widget_section div {
+	min-width: 300px;
+	min-height: 300px;
+	margin: 0 auto !important;
+}
+.eh_amazon_seller_policy
+{
+    background:#ebe9eb;
+    border-radius:5px;
+}
+.eh_amazon_seller_policy_content
+{
+    padding:1em !important;
+    text-align: center;
+}
